@@ -41,3 +41,5 @@ npm run send-once # тест
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to open issues or PRs.
+
+<!-- Pull Shark 1 -->
