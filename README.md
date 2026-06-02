@@ -1,3 +1,5 @@
+![Nyan Cat](https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif)
+
 # Morning Weather Bot
 
 Телеграм бот для утренних уведомлений с погодой и курсами валют.
@@ -35,3 +37,7 @@ npm run send-once # тест
 ## Стоимость
 
 Бесплатно в рамках Free Tier.
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to open issues or PRs.
