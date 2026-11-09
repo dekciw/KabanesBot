@@ -158,7 +158,6 @@ src/
 ├── services/              # погода, курсы, гифки, Telegram
 ├── storage/               # дедупликация и вчерашние курсы
 └── utils/logger.js
-docs/                      # страница живого демо (GitHub Pages)
 ```
 
 </details>
