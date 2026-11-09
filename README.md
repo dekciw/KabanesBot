@@ -23,14 +23,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://t.me/kabanes_info_bot">Демо</a>
-  ·
-  <a href="https://github.com/dekciw/morningbot/issues/new?labels=bug">Сообщить об ошибке</a>
-  ·
-  <a href="https://github.com/dekciw/morningbot/issues/new?labels=enhancement">Предложить идею</a>
-</p>
-
 <br>
 
 <table align="center">
