@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://t.me/kabanes_info_bot">
-    <img src="https://img.shields.io/badge/Живое_демо-2AABEE?style=for-the-badge" alt="Живое демо">
+    <img src="https://img.shields.io/badge/Открыть_в_браузере-2AABEE?style=for-the-badge" alt="Открыть в браузере">
   </a>
 </p>
 
