@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.svg" width="110" alt="Morning Bot logo">
+  <img src="assets/logo.png" width="110" alt="Morning Bot logo">
 </p>
 
 <h1 align="center">Morning Bot</h1>
@@ -66,7 +66,8 @@
   </tr>
 </table>
 
-## Содержание
+<details>
+<summary><b>Содержание</b> (нажми, чтобы развернуть)</summary>
 
 - [Как это работает](#как-это-работает)
 - [Быстрый старт](#быстрый-старт)
@@ -75,6 +76,8 @@
 - [Деплой в Yandex Cloud Functions](#деплой-в-yandex-cloud-functions)
 - [Структура проекта](#структура-проекта)
 - [Стоимость](#стоимость)
+
+</details>
 
 ## Как это работает
 
