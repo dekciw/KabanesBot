@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://dekciw.github.io/morningbot/">
+  <a href="https://t.me/kabanes_info_bot">
     <img src="https://img.shields.io/badge/Живое_демо-2AABEE?style=for-the-badge" alt="Живое демо">
   </a>
   <a href="#быстрый-старт">
@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <a href="https://dekciw.github.io/morningbot/">Демо</a>
+  <a href="https://t.me/kabanes_info_bot">Демо</a>
   ·
   <a href="https://github.com/dekciw/morningbot/issues/new?labels=bug">Сообщить об ошибке</a>
   ·
