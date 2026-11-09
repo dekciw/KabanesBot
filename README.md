@@ -105,7 +105,7 @@ npm start                    # бот + ежедневная рассылка п
 | `OWM_KEY` | нет | Ключ OpenWeatherMap: без него не будет погоды | [openweathermap.org](https://openweathermap.org/api) |
 | `CURRENCYLAYER_KEY` | нет | Ключ CurrencyLayer: без него не будет курсов | [currencylayer.com](https://currencylayer.com/) |
 | `KLIPY_API_KEY` | нет | Ключ Klipy: без него сообщение уйдёт без гифки | [klipy.com](https://klipy.com/) |
-| `SEND_TIME` | нет | Время рассылки по МСК, по умолчанию `08:00` | — |
+| `SEND_TIME` | нет | Время рассылки по МСК, по умолчанию `08:00` | не нужно |
 
 Получатели (chat ID) хранятся в [`src/config/recipients.json`](src/config/recipients.json).
 
