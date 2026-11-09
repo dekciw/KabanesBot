@@ -24,9 +24,6 @@
   <a href="#быстрый-старт">
     <img src="https://img.shields.io/badge/Быстрый_старт-1F2937?style=for-the-badge" alt="Быстрый старт">
   </a>
-  <a href="#деплой-в-yandex-cloud-functions">
-    <img src="https://img.shields.io/badge/Деплой-1F2937?style=for-the-badge" alt="Деплой">
-  </a>
 </p>
 
 <p align="center">
