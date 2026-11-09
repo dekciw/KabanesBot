@@ -12,9 +12,9 @@
   <img src="https://img.shields.io/badge/Node.js-18+-339933?logo=nodedotjs&logoColor=white" alt="Node.js 18+">
   <img src="https://img.shields.io/badge/grammY-1.x-2AABEE?logo=telegram&logoColor=white" alt="grammY">
   <img src="https://img.shields.io/badge/Yandex_Cloud-Functions-FF4433?logo=yandexcloud&logoColor=white" alt="Yandex Cloud Functions">
-  <a href="https://github.com/dekciw/morningbot/releases/latest"><img src="https://img.shields.io/github/v/release/dekciw/morningbot?color=FFB86B" alt="Release"></a>
+  <a href="https://github.com/dekciw/KabanesBot/releases/latest"><img src="https://img.shields.io/github/v/release/dekciw/KabanesBot?color=FFB86B" alt="Release"></a>
   <a href="https://t.me/kabanes_info_bot"><img src="https://img.shields.io/badge/Telegram-@kabanes__info__bot-2AABEE?logo=telegram&logoColor=white" alt="Telegram bot"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/dekciw/morningbot?color=4FD18B" alt="License"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/dekciw/KabanesBot?color=4FD18B" alt="License"></a>
 </p>
 
 <p align="center">
@@ -88,8 +88,8 @@ flowchart LR
 Понадобятся Node.js 18+ и токен бота от [@BotFather](https://t.me/BotFather).
 
 ```bash
-git clone https://github.com/dekciw/morningbot.git
-cd morningbot
+git clone https://github.com/dekciw/KabanesBot.git
+cd KabanesBot
 npm install
 
 # создай .env с ключами (см. таблицу ниже)
