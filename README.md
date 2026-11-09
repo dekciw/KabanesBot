@@ -21,9 +21,6 @@
   <a href="https://t.me/kabanes_info_bot">
     <img src="https://img.shields.io/badge/Живое_демо-2AABEE?style=for-the-badge" alt="Живое демо">
   </a>
-  <a href="#быстрый-старт">
-    <img src="https://img.shields.io/badge/Быстрый_старт-1F2937?style=for-the-badge" alt="Быстрый старт">
-  </a>
 </p>
 
 <p align="center">
