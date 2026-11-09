@@ -19,13 +19,13 @@
 
 <p align="center">
   <a href="https://dekciw.github.io/morningbot/">
-    <img src="https://img.shields.io/badge/▶_Живое_демо-2AABEE?style=for-the-badge" alt="Живое демо">
+    <img src="https://img.shields.io/badge/Живое_демо-2AABEE?style=for-the-badge" alt="Живое демо">
   </a>
   <a href="#быстрый-старт">
-    <img src="https://img.shields.io/badge/🚀_Быстрый_старт-1F2937?style=for-the-badge" alt="Быстрый старт">
+    <img src="https://img.shields.io/badge/Быстрый_старт-1F2937?style=for-the-badge" alt="Быстрый старт">
   </a>
   <a href="#деплой-в-yandex-cloud-functions">
-    <img src="https://img.shields.io/badge/☁️_Деплой-1F2937?style=for-the-badge" alt="Деплой">
+    <img src="https://img.shields.io/badge/Деплой-1F2937?style=for-the-badge" alt="Деплой">
   </a>
 </p>
 
@@ -80,14 +80,14 @@
 
 ```mermaid
 flowchart LR
-    T["⏰ Таймер<br/>node-cron или<br/>триггер Yandex Cloud"] --> J["runDailyJob()"]
-    J --> W["🌤 OpenWeatherMap<br/>погода"]
-    J --> C["💱 CurrencyLayer<br/>курсы"]
-    W --> G["🎞 Klipy<br/>гифка под погоду"]
-    W --> M["📝 Сборка сообщения"]
+    T["Таймер<br/>node-cron или<br/>триггер Yandex Cloud"] --> J["runDailyJob()"]
+    J --> W["OpenWeatherMap<br/>погода"]
+    J --> C["CurrencyLayer<br/>курсы"]
+    W --> G["Klipy<br/>гифка под погоду"]
+    W --> M["Сборка сообщения"]
     C --> M
     G --> M
-    M --> TG["📨 Telegram Bot API<br/>рассылка получателям"]
+    M --> TG["Telegram Bot API<br/>рассылка получателям"]
 ```
 
 1. По расписанию запускается `runDailyJob()` из [`src/jobs/daily-send.js`](src/jobs/daily-send.js).
@@ -113,11 +113,11 @@ npm start                    # бот + ежедневная рассылка п
 
 | Переменная | Обязательна | Описание | Где взять |
 |---|:---:|---|---|
-| `TELEGRAM_BOT_TOKEN` | ✅ | Токен Telegram-бота | [@BotFather](https://t.me/BotFather) |
-| `OWM_KEY` | — | Ключ OpenWeatherMap: без него не будет погоды | [openweathermap.org](https://openweathermap.org/api) |
-| `CURRENCYLAYER_KEY` | — | Ключ CurrencyLayer: без него не будет курсов | [currencylayer.com](https://currencylayer.com/) |
-| `KLIPY_API_KEY` | — | Ключ Klipy: без него сообщение уйдёт без гифки | [klipy.com](https://klipy.com/) |
-| `SEND_TIME` | — | Время рассылки по МСК, по умолчанию `08:00` | — |
+| `TELEGRAM_BOT_TOKEN` | да | Токен Telegram-бота | [@BotFather](https://t.me/BotFather) |
+| `OWM_KEY` | нет | Ключ OpenWeatherMap: без него не будет погоды | [openweathermap.org](https://openweathermap.org/api) |
+| `CURRENCYLAYER_KEY` | нет | Ключ CurrencyLayer: без него не будет курсов | [currencylayer.com](https://currencylayer.com/) |
+| `KLIPY_API_KEY` | нет | Ключ Klipy: без него сообщение уйдёт без гифки | [klipy.com](https://klipy.com/) |
+| `SEND_TIME` | нет | Время рассылки по МСК, по умолчанию `08:00` | — |
 
 Получатели (chat ID) хранятся в [`src/config/recipients.json`](src/config/recipients.json).
 
