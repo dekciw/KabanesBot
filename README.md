@@ -12,9 +12,6 @@
   <img src="https://img.shields.io/badge/Node.js-18+-339933?logo=nodedotjs&logoColor=white" alt="Node.js 18+">
   <img src="https://img.shields.io/badge/grammY-1.x-2AABEE?logo=telegram&logoColor=white" alt="grammY">
   <img src="https://img.shields.io/badge/Yandex_Cloud-Functions-FF4433?logo=yandexcloud&logoColor=white" alt="Yandex Cloud Functions">
-  <img src="https://img.shields.io/badge/стоимость-0_₽-4FD18B" alt="Free">
-  <img src="https://img.shields.io/github/last-commit/dekciw/morningbot?color=FFB86B" alt="Last commit">
-  <img src="https://img.shields.io/github/stars/dekciw/morningbot?style=flat&color=FFD24A" alt="Stars">
 </p>
 
 <p align="center">
